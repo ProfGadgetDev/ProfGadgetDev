@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ProfGadgetDev
 - 👀 I’m interested in Game (Engine) Development, OS Development and more
-- 🌱 I’m currently learning C/C++, C#, ...
+- 🌱 I’m currently learning JS and Java
 - 📫 How to reach me nikomokrov@rainycloud.cloud, nikomokrov@gmail.com
 
 <!---
