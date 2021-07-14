@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 ### My current projects:
 - Sistema Operatum
+- Nucleus Kernel
 - Crypt0 Engine
 - Rednik
-- ...
+- ... (other projects, mostly secret!)
