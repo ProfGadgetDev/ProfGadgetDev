@@ -7,7 +7,7 @@ ProfGadgetDev/ProfGadgetDev is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-### My current projects:
+### My current projects (working on them by myself):
 - Sistema Operatum
 - Nucleus Kernel
 - Crypt0 Engine
